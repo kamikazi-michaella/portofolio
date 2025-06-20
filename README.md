@@ -1,4 +1,4 @@
-# Personal Portfolio - Keyla Nyacyesa Bineza
+# Personal Portfolio - Kamikazi Michaella
 
 ## 🌐 Live Site
 [View Portfolio](https://kamikazi-michaella.github.io/portofolio/)
@@ -54,4 +54,4 @@ cd portofolio
 
 ## 📄 License
 
-© 2024 Keyla Nyacyesa Bineza. All rights reserved.
+© 2024 Kamikazi Michaella. All rights reserved.
